@@ -5,5 +5,5 @@ In this project, we explore how machine learning models perform in time-series f
 
 Authors
 - [Ali Ansari](https://allliance.github.io/)
-- [Servin Issakhani[(https://www.researchgate.net/profile/Shervin_Issakhani)
+- [Servin Issakhani](https://www.researchgate.net/profile/Shervin_Issakhani)
 - [Leyao (Laura) Wang](https://lwang-laura.github.io/leyaowang.github.io/)
